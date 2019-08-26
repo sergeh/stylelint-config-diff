@@ -1,11 +1,11 @@
 {
-  "name": "stylelint-config-shopify",
+  "name": "stylelint-config-diff",
   "version": "7.2.1",
-  "description": "Shopify's stylelint rules and config",
+  "description": "Diff's stylelint rules and config",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shopify/stylelint-config-shopify"
+    "url": "https://github.com/sergeh/stylelint-config-diff"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0",
@@ -26,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shopify/stylelint-config-shopify/issues"
+    "url": "https://github.com/sergeh/stylelint-config-diff/issues"
   },
-  "homepage": "https://github.com/shopify/stylelint-config-shopify",
+  "homepage": "https://github.com/sergeh/stylelint-config-diff",
   "eslintConfig": {
     "extends": [
       "plugin:shopify/esnext",
