@@ -37,15 +37,15 @@
   },
   "dependencies": {
     "merge": "1.2.x",
-    "stylelint-config-prettier": "^4.0.0",
-    "stylelint-order": "1.0.0",
-    "stylelint-prettier": "1.0.6",
-    "stylelint-scss": "3.3.0"
+    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-order": "3.0.1",
+    "stylelint-prettier": "1.1.1",
+    "stylelint-scss": "3.9.4"
   },
   "devDependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^6.2.2",
     "eslint-plugin-shopify": "^24.0.0",
-    "stylelint": "9.5.0",
+    "stylelint": "^10.1.0",
     "stylelint-test-rule-tape": "^0.2.0",
     "tape": "^4.9.1"
   },
