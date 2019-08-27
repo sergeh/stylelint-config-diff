@@ -1,4 +1,4 @@
-# stylelint-config-shopify
+# stylelint-config-diff
 [![Circle CI](https://circleci.com/gh/sergeh/stylelint-config-diff.svg?style=shield)](https://circleci.com/gh/sergeh/stylelint-config-diff)
 [![David-DM](https://david-dm.org/sergeh/stylelint-config-diff.svg)](https://david-dm.org/sergeh/stylelint-config-diff)
 
@@ -6,7 +6,7 @@ Diff's stylelint rules and config
 
 ## Installation
 
-Install [stylelint](https://stylelint.io/) and `stylelint-config-shopify`:
+Install [stylelint](https://stylelint.io/) and `stylelint-config-diff`:
 
 **With Yarn**
 ```
